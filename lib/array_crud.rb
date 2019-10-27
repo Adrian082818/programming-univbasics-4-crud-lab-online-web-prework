@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
  cake = ["wow", "I", "am", "really", "learning"]
-  cake.shift("wow")
+  wow = cake.shift
 end
 
 def retrieve_element_from_index(array, index_number)
