@@ -12,11 +12,13 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  ["double fudge", "eminem", "black forest", "seven layer"]
+ cake = ["double fudge", "eminem", "black forest", "seven layer"]
   array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
+  cake = ["double fudge", "eminem", "black forest", "seven layer"]
+  .pop("")
   
 end
 
