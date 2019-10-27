@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
- cake = ["double fudge", "eminem", "black forest", "seven layer"]
+ cake = ["I", "am", "really", "learning"]
   array.unshift("wow")
 end
 
