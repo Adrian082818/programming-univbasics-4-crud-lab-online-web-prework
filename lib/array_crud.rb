@@ -43,6 +43,6 @@ cake[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-cake = ["double fudge", "eminem", "black forest", "seven layer"]
-cake
+cake = ["double fudge", "eminem", "black forest", "seven layer", "please"]
+cake[4] = "totally" => "totally"
 end
