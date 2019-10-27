@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- cake = ["double fudge", "eminem", "am", "seven layer"] 
+ cake = ["wow", "I", "am", "really", "learning"] 
  cake << "arrays!"
 end
 
