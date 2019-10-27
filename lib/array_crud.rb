@@ -37,7 +37,7 @@ cake[0]
 end
 
 def retrieve_last_element_from_array(array)
-cake  = ["wow", "eminem", "black forest", "seven layer"]
+cake  = ["wow", "eminem", "black forest", "arrays!"]
 cake[-1]
 end
 
