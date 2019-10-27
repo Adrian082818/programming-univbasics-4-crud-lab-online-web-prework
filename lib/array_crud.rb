@@ -34,6 +34,7 @@ end
 
 def retrieve_first_element_from_array(array)
 cake = ["double fudge", "eminem", "black forest", "seven layer"]
+
 end
 
 def retrieve_last_element_from_array(array)
@@ -41,5 +42,5 @@ cake  = ["double fudge", "eminem", "black forest", "seven layer"]
 end
 
 def update_element_from_index(array, index_number, element)
-
+cake = ["double fudge", "eminem", "black forest", "seven layer"]
 end
