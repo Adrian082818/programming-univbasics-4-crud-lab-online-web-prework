@@ -23,7 +23,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
- cake = ["double fudge", "eminem", "am", "seven layer"]
+ cake = ["wow", "double fudge", "eminem", "am", "seven layer"]
  wow = cake.shift
 end
 
