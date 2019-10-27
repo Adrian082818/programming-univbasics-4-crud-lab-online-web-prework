@@ -24,7 +24,7 @@ end
 
 def remove_element_from_start_of_array(array)
  cake = ["double fudge", "eminem", "black forest", "seven layer"]
- 
+ wow
 end
 
 def retrieve_element_from_index(array, index_number)
