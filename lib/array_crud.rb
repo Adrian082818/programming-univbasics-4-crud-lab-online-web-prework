@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-cake = ["double fudge", "eminem", "black forest", "seven layer"]
+cake = ["wow", "eminem", "black forest", "seven layer"]
 cake[0]
 end
 
