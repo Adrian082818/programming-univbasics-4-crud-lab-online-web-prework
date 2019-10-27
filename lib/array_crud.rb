@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   cake = ["I", "am", "really", "learning", "arrays!"]
-   cake.pop("arrays!")
+   cake.pop(arrays!)
   
 end
 
